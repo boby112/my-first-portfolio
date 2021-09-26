@@ -1,0 +1,74 @@
+body{
+    font-family: 'Gemunu Libre', sans-serif;
+
+}
+
+h2{
+    font-size: 50px;
+    color:darkblue;
+    
+}
+.salmon-highlight{
+    color: darksalmon;
+}
+.half-width{
+    width:20%;
+    float: left;
+   
+   
+}
+img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color:salmon;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.project-area{
+    text-align: center;
+    
+}
+.project-list h3{
+    color: rgba(54, 57, 88, 1);
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+    font-size: 30px;
+    
+}
+.project-list{
+  
+    padding-left: 100px;
+    margin-left: 30px;
+    float: left;
+    width: 90%;  
+    clear: both;
+    display: table;
+    
+}
+.project-list img{
+    height:auto;
+    width:100%;
+}
+div .description{
+    padding: 15px;
+    text-align: left;
+}
+div .project{
+    width: 30%;
+    float: left;
+    text-align: left;
+}
+h2{
+
+}
+.education{
+    text-align: center;
+  
+    }
